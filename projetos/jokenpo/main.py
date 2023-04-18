@@ -55,13 +55,4 @@ while True:
 
     # Saída de dados
     print(f"Você: {user_point} x {computer_point} :Computador")
-    print()
-
-
-
-
-
-
-
-
-
+    print(f'Criado por Ilton Batista')
